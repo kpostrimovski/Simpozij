@@ -1,0 +1,23 @@
+/*
+#1C3879
+#607EAA
+#EAE3D2
+#F9F5EB
+*/
+
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #EAE3D2;
+}
+
+
+h2 {
+  color: #607EAA;
+}
+h3 {
+  color: #607EAA;
+  background-color: #EAE3D2;
+  margin: 0;
+  padding: 0;
+}
