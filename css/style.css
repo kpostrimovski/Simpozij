@@ -1,4 +1,5 @@
 /*
+#434343
 #1C3879
 #607EAA
 #EAE3D2
@@ -7,12 +8,8 @@
 
 body{
   background-color: #EAE3D2;
-}
-.slika {
-  width: 20em;
-  height: 20em;
-  margin: auto;
-  padding: 0,auto;
+  font-family: 'EB Garamond', serif;
+  color: #434343;
 }
 
 h2 {
@@ -21,4 +18,36 @@ h2 {
 h3 {
   color: #607EAA;
   background-color: #EAE3D2;
+  f
+}
+
+/* navbar */
+.navbar{
+  margin: 1rem 0;
+  padding: 0;
+}
+.navbar-nav{
+  width: 50%;
+  height: 100%;
+}
+.nav-item {
+  margin: 0 5px;
+  background-color: #1C3879;
+  border-radius: 5px;
+  border: 1px solid #434343;
+  width: 20%;
+}
+
+.nav-item:hover {
+  background-color: #F9F5EB;
+}
+
+.nav-link {
+  text-align: center;
+  color: #F9F5EB;
+  font-weight: 200;
+
+}
+.nav-link:hover {
+  color: #434343;
 }
